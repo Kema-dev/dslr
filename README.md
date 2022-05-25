@@ -54,7 +54,7 @@ You can find complete subject <a href="docs/">here</a>.
 
 ### Built With
 
-* <a href="https://jupyter.org/" target="_blank" title="Jupyter's website">Jupyter</a>
+* <a href="https://jupyter.org/" target="_blank" title="Jupyter's website">jupyter</a>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -65,7 +65,7 @@ You can find complete subject <a href="docs/">here</a>.
 * [jupyter](https://jupyter.org/)
 * [numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
-* [Matplotlib](https://matplotlib.org/)
+* [matplotlib](https://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 
 ### Installation
