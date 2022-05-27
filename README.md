@@ -48,7 +48,7 @@
 
 dslr is a 42 project, aiming to recreate Harry Potter's sorting hat using machine learning.
 
-You can find in src/ folder various programs, from data description / visualization to logistical regression.
+You can find in [src/](src/) folder various programs, from data description / visualization to logistical regression.
 
 You can find complete subject <a href="docs/">here</a>.
 
