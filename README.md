@@ -1,8 +1,8 @@
 <div id="top"></div>
 <p align=center>
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kema-dev/dslr">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/kema-dev/dslr">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kema-dev/dslr">
+  <img alt="Project's status" src="https://img.shields.io/badge/Status-Stall-red">
+  <img alt="Project's primary language" src="https://img.shields.io/badge/Language-Python%20(Jupyter%20Notebooks)-blue">
+  <img alt="Project's focus" src="https://img.shields.io/badge/Focus-Data%20science-blue">
 </p>
 
 <!-- PROJECT LOGO -->
